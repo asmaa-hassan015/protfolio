@@ -663,6 +663,10 @@ html {
   columns: 3;
   column-gap: 22px;
 }
+a.portfolio-item {
+  display: block;
+  text-decoration: none;
+}
 .portfolio-item {
   break-inside: avoid;
   margin-bottom: 22px;
